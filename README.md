@@ -1,7 +1,6 @@
 ## Olá, Programando o Futuro...
 
 - Estudando Java
-  <div>
-    <a href-"[https://github.com/Rondysonr](https://github.com/Rondysonr/Rondysonr/edit/main/README.md)https://github.com/Rondysonr/Rondysonr/edit/main/README.md"
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-  </div>
+---
+  
+![0660efe82fa3da42ed56eef013171835](https://github.com/Rondysonr/Rondysonr/assets/126256862/5e58cec4-4bf2-4a1c-9743-ea2d63cf1057)
