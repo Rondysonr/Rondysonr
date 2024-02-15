@@ -2,7 +2,7 @@
 conheça um pouquinho sobre mim ->
 
 
-<h1 align="left">About me</h1>
+<h1 align="left">About me<br></h1>
 
 <p align="left"><br>📚 studying: Java <br>🎯 Goals: Fullstack developer <br>🎲 Fun fact: A vida não é um morango<br></p>
 
