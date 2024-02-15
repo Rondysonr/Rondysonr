@@ -1,5 +1,12 @@
 ## Olá, sou Rondyson e estou programando o meu futuro...
 
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">📚 studying: Java ...<br>🎯 Goals: Fullstack developer ...<br>🎲 Fun fact: A vida não é um morango</p>
 - Estudando Java
 ---
 <div align="left">
@@ -18,11 +25,6 @@
 ---
 
 
-<h1 align="left">Olá </h1>
-
-###
-
-<p align="left">Rondyson Raillan....</p>
 
 ###
 
@@ -32,17 +34,3 @@
 
 <p align="left">📚 studying: Java ...<br>🎯 Goals: Fullstack developer ...<br>🎲 Fun fact: A vida não é um morango</p>
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-</div>
-###
