@@ -1,4 +1,5 @@
 ## Olá, sou Rondyson e estou programando o meu futuro...
+---
 
 ###
 
@@ -7,7 +8,7 @@
 ###
 
 <p align="left">📚 studying: Java ...<br>🎯 Goals: Fullstack developer ...<br>🎲 Fun fact: A vida não é um morango</p>
-- Estudando Java
+
 ---
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
