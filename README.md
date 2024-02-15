@@ -1,11 +1,9 @@
 ## Olá, sou Rondyson e estou programando o meu futuro...
 ---
 
-###
 
 <h1 align="left">About me</h2>
 
-###
 
 <p align="left">📚 studying: Java ...<br>🎯 Goals: Fullstack developer ...<br>🎲 Fun fact: A vida não é um morango</p>
 
