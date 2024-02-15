@@ -1,7 +1,6 @@
 ## Olá, sou Rondyson e estou programando o meu futuro... 
 conheça um pouquinho sobre mim ->
 
----
 
 <h1 align="left">About me</h1>
 
