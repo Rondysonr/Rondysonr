@@ -24,11 +24,3 @@ conheça um pouquinho sobre mim ->
 
 
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 studying: Java ...<br>🎯 Goals: Fullstack developer ...<br>🎲 Fun fact: A vida não é um morango</p>
-
