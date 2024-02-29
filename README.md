@@ -13,8 +13,11 @@ conheça um pouquinho sobre mim ->
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+
+
+  <img src="https://raw.githubusercontent.com/rondysonr/rondysonr/output/snake.svg" alt="Snake animation" />
 </div>
-<img src="https://raw.githubusercontent.com/rondysonr/rondysonr/output/snake.svg" alt="Snake animation" />
+
 
 ###
 ---
