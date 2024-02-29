@@ -14,14 +14,14 @@ conheça um pouquinho sobre mim ->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
+<img src="https://raw.githubusercontent.com/rondysonr/rondysonr/output/snake.svg" alt="Snake animation" />
 
 ###
 ---
   
 ![intro_to_comp_programming](https://github.com/Rondysonr/Rondysonr/assets/126256862/b79ea262-d6af-41be-8d75-80276f32dcea)
-<img src="https://raw.githubusercontent.com/rondysonr/rondysonr/output/snake.svg" alt="Snake animation" />
 
-###
+
 
 ---
 
