@@ -14,9 +14,7 @@ conheça um pouquinho sobre mim ->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 
-
-  <img src="https://raw.githubusercontent.com/Rondysonr/Rondysonr/output/snake.svg" alt="Snake animation" />
-</div>
+ </div>
 
 
 ###
