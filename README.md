@@ -1,10 +1,8 @@
-## Olá, sou Rondyson e estou programando o meu futuro... 
-conheça um pouquinho sobre mim ->
-
+## Olá, sou Rondyson Raillan 
 
 <h1 align="left">Sobre mim</h1>
 
-<p align="left"><br>📚 studying: Java <br>🎯 Goals: Fullstack developer <br>🎲 Fun fact: A vida não é um morango<br></p>
+<p align="left"><br>📚 Estudos: Java <br>🎯 Objetivos: java programmer <br>🎲 Fato Engraçado: se estiver facil acorde <br></p>
 
 ---
 <div align="left">
